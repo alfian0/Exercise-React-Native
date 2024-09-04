@@ -17,7 +17,7 @@
 ```
 <img width="1680" alt="Screen Shot 2024-09-04 at 10 53 43" src="https://github.com/user-attachments/assets/a3c93d74-6bd4-40ce-b2bd-390443ac8fc4">
 
-#### Android
+#### Android ✅
 - Android Studio Koala | 2024.1.1 Patch 2
 - Comment this code at `build.gradle | Module`
 ```
@@ -91,6 +91,9 @@ initializeFlipper(this, getReactNativeHost().getReactInstanceManager());
     }
   }
 ```
+<img width="1680" alt="Screen Shot 2024-09-04 at 11 30 39" src="https://github.com/user-attachments/assets/5f48b491-7b13-46ca-8954-135992d736f3">
+
+
 ### Tested in Macbook Pro 16inch 2021 (Apple Silicon) MacOS Sonoma
 #### iOS ❌
 - Xcode 15.2
