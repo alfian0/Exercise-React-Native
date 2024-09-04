@@ -100,6 +100,14 @@ initializeFlipper(this, getReactNativeHost().getReactInstanceManager());
 <img width="1136" alt="Screenshot 2024-09-04 at 10 36 25" src="https://github.com/user-attachments/assets/8d45ca97-687b-480f-9c03-5c6d10895e0e">
 <img width="1512" alt="Screenshot 2024-09-04 at 10 39 30" src="https://github.com/user-attachments/assets/66066c7a-743e-4f3f-95f1-fbc11eccce41">
 
-#### Android ❌
+#### Android ❌ -> ✅
 - Android Studio Koala | 2024.1.1 Patch 2
-![Screenshot_20240904_104524](https://github.com/user-attachments/assets/497bc4d5-be8c-4d3d-a3f1-f3a82b9c80ee)
+Error when run from Android without Metro started first
+<img width="2056" alt="Screenshot 2024-09-04 at 12 28 21" src="https://github.com/user-attachments/assets/25cc53c6-7d77-497f-a458-c16ab99938b1">
+Error when use `npm run android`
+<img width="2056" alt="Screenshot 2024-09-04 at 12 29 28" src="https://github.com/user-attachments/assets/068c83bb-f72b-4660-9469-8775a9626e91">
+
+- Its working when we start metro first and run by Android Strudio
+`npm start` then run on `Android Studio`
+<img width="2056" alt="Screenshot 2024-09-04 at 12 23 53" src="https://github.com/user-attachments/assets/b784f513-76af-4cf0-8137-cf352d2a5a1c">
+
