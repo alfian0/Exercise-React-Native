@@ -5,6 +5,8 @@
 `npx @react-native-community/cli@latest init AwesomeProject --version 0.63.2`
 
 ### Tested in Macbook Pro 13inch 2015 (Intel) MacOS Monterey
+<img width="1680" alt="Screen Shot 2024-09-04 at 12 32 58" src="https://github.com/user-attachments/assets/b144661c-7bdd-4468-aede-273fc4ffa593">
+
 #### iOS ✅
 - Xcode 14.0
 - Cocoapods 1.15.2
