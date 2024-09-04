@@ -99,15 +99,20 @@ initializeFlipper(this, getReactNativeHost().getReactInstanceManager());
 ### Tested in Macbook Pro 16inch 2021 (Apple Silicon) MacOS Sonoma
 <img width="1136" alt="Screenshot 2024-09-04 at 12 34 53" src="https://github.com/user-attachments/assets/12343c0d-c0c7-48fa-9551-4406265052ab">
 
-#### iOS ❌
+#### iOS ❌ -> ✅
 - Xcode 15.2
 <img width="1136" alt="Screenshot 2024-09-04 at 10 36 25" src="https://github.com/user-attachments/assets/8d45ca97-687b-480f-9c03-5c6d10895e0e">
 <img width="1512" alt="Screenshot 2024-09-04 at 10 39 30" src="https://github.com/user-attachments/assets/66066c7a-743e-4f3f-95f1-fbc11eccce41">
+
+- Like Android we need to start Metro first before run from Xcode
+<img width="2056" alt="Screenshot 2024-09-04 at 12 50 36" src="https://github.com/user-attachments/assets/8d31129a-ab45-452b-94b0-e31f65877e58">
+
 
 #### Android ❌ -> ✅
 - Android Studio Koala | 2024.1.1 Patch 2
 - Error when run from Android without Metro started first
 <img width="2056" alt="Screenshot 2024-09-04 at 12 28 21" src="https://github.com/user-attachments/assets/25cc53c6-7d77-497f-a458-c16ab99938b1">
+
 - Error when use `npm run android`
 <img width="2056" alt="Screenshot 2024-09-04 at 12 29 28" src="https://github.com/user-attachments/assets/068c83bb-f72b-4660-9469-8775a9626e91">
 
