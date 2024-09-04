@@ -93,8 +93,10 @@ initializeFlipper(this, getReactNativeHost().getReactInstanceManager());
 ```
 ### Tested in Macbook Pro 16inch 2021 (Apple Silicon) MacOS Sonoma
 #### iOS ❌
+- Xcode 15.2
 <img width="1136" alt="Screenshot 2024-09-04 at 10 36 25" src="https://github.com/user-attachments/assets/8d45ca97-687b-480f-9c03-5c6d10895e0e">
 <img width="1512" alt="Screenshot 2024-09-04 at 10 39 30" src="https://github.com/user-attachments/assets/66066c7a-743e-4f3f-95f1-fbc11eccce41">
 
 #### Android ❌
+- Android Studio Koala | 2024.1.1 Patch 2
 ![Screenshot_20240904_104524](https://github.com/user-attachments/assets/497bc4d5-be8c-4d3d-a3f1-f3a82b9c80ee)
