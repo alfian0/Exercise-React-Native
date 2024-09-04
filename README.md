@@ -15,6 +15,8 @@
 #    flipper_post_install(installer)
 #  end
 ```
+<img width="1680" alt="Screen Shot 2024-09-04 at 10 53 43" src="https://github.com/user-attachments/assets/a3c93d74-6bd4-40ce-b2bd-390443ac8fc4">
+
 #### Android
 - Android Studio Koala | 2024.1.1 Patch 2
 - Comment this code at `build.gradle | Module`
