@@ -1,4 +1,4 @@
-## Prerequisite
+## Requirement
 - NVM
 - Node v12.22.12 LTS
 ## How to
